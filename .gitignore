@@ -4,3 +4,5 @@ __pycache__/
 .env
 wandb/
 checkpoints/
+.venv/
+.idea/
